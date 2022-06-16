@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WaleyDevOps, A Cloud infrastructure Engineering
+- 👋 Hi, I’m @WaleyDevOps, A Cloud infrastructure Engineer
 - 👀 I’m interested in DevOps, Open-Source
 - 🌱 I’m currently learning Kubernetes, DevOps, Azure DevOps, Open Source 
 - 💞️ I’m looking to collaborate on Open-Source projects, DevOps
